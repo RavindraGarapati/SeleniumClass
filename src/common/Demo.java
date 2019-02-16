@@ -2,7 +2,7 @@ package common;
 
 public class Demo {
 
-	public static void main(String[] args)
+		public static void main(String[] args)
 	{
 		
 		String dateTime ="12/07/2014 2:00 PM";
@@ -16,6 +16,8 @@ public class Demo {
 		}
 
 		// Added Comment
+		
+		//Added new comment
 		
 	}
 
